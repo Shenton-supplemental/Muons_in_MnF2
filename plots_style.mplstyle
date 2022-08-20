@@ -1,0 +1,19 @@
+# content of file style.mplstyle
+
+axes.titlesize : 14
+axes.labelsize :   10
+lines.linewidth : 1.5
+lines.markersize : 10
+xtick.labelsize :   10
+ytick.labelsize :   10
+
+font.size           : 10
+legend.fontsize      : 10
+
+
+xtick.direction      : in 
+ytick.direction      : in 
+xtick.top            : True
+ytick.right            : True
+font.family         : STIXGeneral
+mathtext.fontset : stix

@@ -1,0 +1,37 @@
+/home/jks/miniconda3/bin/sumo-bandstats
+Indirect band gap: 3.409 eV
+Direct band gap: 3.447 eV
+  Up:
+    k-point: [0.00, 0.00, 0.00]
+    k-point indices: 0
+    Band indices: 27, 28
+  Down:
+    k-point: [0.00, 0.00, 0.00]
+    k-point indices: 0
+    Band indices: 27, 28
+
+Valence band maximum:
+  Energy: 1.229 eV
+  k-point: [0.00, 0.50, 0.00]
+  k-point location: between None-None
+  k-point indices: 13
+  Band indices: 27(Up), 27(Down)
+
+Conduction band minimum:
+  Energy: 4.638 eV
+  k-point: [0.00, 0.00, 0.00]
+  k-point location: between None-None
+  k-point indices: 0
+  Band indices: 28(Up), 28(Down)
+
+Using parabolic fitting of the band edges
+
+Hole effective masses:
+  m_h: -14.906 | band 27 (up) | [0.00, 0.50, 0.00] -> [0.50, 0.50, 0.50]
+  m_h: -17.751 | band 27 (up) | [0.00, 0.50, 0.00] -> [0.00, 0.00, 0.00]
+  m_h: -14.906 | band 27 (down) | [0.00, 0.50, 0.00] -> [0.50, 0.50, 0.50]
+  m_h: -17.751 | band 27 (down) | [0.00, 0.50, 0.00] -> [0.00, 0.00, 0.00]
+
+Electron effective masses:
+  m_e: 0.529 | band 28 (up) | [0.00, 0.00, 0.00] -> [0.50, 0.50, 0.50]
+  m_e: 0.529 | band 28 (down) | [0.00, 0.00, 0.00] -> [0.50, 0.50, 0.50]

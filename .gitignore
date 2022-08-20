@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VASP-related files 
+POTCAR
+vasp.out
+ase-sort.dat
+REPORT
+POSCAR
+PCDAT
+IBZKPT
+output
+XDATCAR
+PROCAR
+EIGENVAL
+DOSCAR
