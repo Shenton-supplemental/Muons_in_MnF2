@@ -1,0 +1,27 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 600.000000
+ EDIFF = 1.00e-06
+ METAGGA = SCAN
+ ISMEAR = -5
+ ISYM = 0
+ LDAUPRINT = 2
+ LDAUTYPE = 2
+ LMAXMIX = 6
+ LORBIT = 11
+ NSW = 0
+ NEDOS = 3001
+ ADDGRID = .TRUE.
+ LASPH = .TRUE.
+ LDAU = .TRUE.
+ LDAUL = 2 -1
+ LDAUU = 0.000 0.000
+ LDAUJ = 0.000 0.000
+ ISPIN = 2
+ MAGMOM = 1*-6.0000 1*6.0000 4*0.0000 
+
+
+ NGXF=   120 
+ NGYF=   120 
+ NGZF=   80
+
+ LMIXTAU = .TRUE.
